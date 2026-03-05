@@ -1,0 +1,3 @@
+websocket-client
+flask
+python-dotenv
